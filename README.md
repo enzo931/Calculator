@@ -1,6 +1,6 @@
 <h1>Calculadora Científica em JavaScript</h1>
 <br>
-Este projeto é uma calculadora científica desenvolvida em HTML, CSS e JavaScript. Ela realiza operações matemáticas simples, como soma, subtração, multiplicação e divisão,<br>
+Este projeto é uma calculadora científica desenvolvida em HTML, CSS e JavaScript. Ela realiza operações matemáticas simples, como soma, subtração, multiplicação e divisão,
 além de funções científicas como seno, cosseno, tangente, logaritmo e raiz quadrada.<br>
 <br>
 <h1>Funcionalidades
