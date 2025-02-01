@@ -1,0 +1,93 @@
+        /* Estilo geral da página */
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f7f6;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        h1 {
+            font-size: 2rem;
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        /* Estilo da calculadora */
+        .calculator {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 10px;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+            width: 400px;
+        }
+
+        input {
+            grid-column: span 4;
+            padding: 15px;
+            font-size: 2rem;
+            text-align: right;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+
+        button {
+            padding: 20px;
+            font-size: 1.5rem;
+            background-color: #f0f0f0;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        button:hover {
+            background-color: #e0e0e0;
+        }
+
+        button:active {
+            background-color: #ddd;
+        }
+
+        .equal-btn {
+            background-color: #4caf50;
+            color: white;
+        }
+
+        .equal-btn:hover {
+            background-color: #45a049;
+        }
+
+        .operation-btn {
+            background-color: #ff9800;
+            color: white;
+        }
+
+        .operation-btn:hover {
+            background-color: #fb8c00;
+        }
+
+        .scientific-btn {
+            background-color: #2196f3;
+            color: white;
+        }
+
+        .scientific-btn:hover {
+            background-color: #1976d2;
+        }
+
+        .clear-btn {
+            background-color: #f44336;
+            color: white;
+        }
+
+        .clear-btn:hover {
+            background-color: #e53935;
+        }
