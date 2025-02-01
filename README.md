@@ -3,9 +3,9 @@
 Este projeto é uma calculadora científica desenvolvida em HTML, CSS e JavaScript. Ela realiza operações matemáticas simples, como soma, subtração, multiplicação e divisão,
 além de funções científicas como seno, cosseno, tangente, logaritmo e raiz quadrada.<br>
 <br>
-<h1>Funcionalidades
+<h1>Funcionalidades</h1>
 <br>
-    A calculadora oferece as seguintes funcionalidades:</h1>
+<h2>A calculadora oferece as seguintes funcionalidades:</h2>
 <br>
 <h1>Operações básicas:</h1>
 <br>
